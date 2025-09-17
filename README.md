@@ -4,7 +4,7 @@
 
 This dashboard was made to be used by people who are trying to get their first data job (**Data Analyst, Data Scientist, Data Engineer**) and want to compare them as well as the more advanced versions of these jobs. This is a follow up project to an online class I took created by [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams). In this dashboard I not only compare data jobs, but built the dashboard in a way to be both visually different as well as to answer a question.
 
-![First Page](/Data_Jobs_Dashboard_2/Images/Data_Job_Comparison.png)
+![First Page](/Data_Jobs_Dashboard2/Images/Data_Job_Comparison.png)
 
 ## How do data jobs compare to one another?
 
