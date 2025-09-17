@@ -22,7 +22,7 @@ In **"Salary Vs. Skills"** we see a clear progression between entry data jobs an
 
 ## Data Job Details
 
-![Second Page](/Data_Jobs_Dashboard2/Images/Data_Job_Details.png)
+![Second Page](/Data_Job_Details.png)
 
 Once the Job seeker has an idea of which data job they would like to pursue, the *Data Job Details* gives them more information on what's required and expected. By clicking on their ideal job, they can see a percentage of jobs that require a degree as well as allow work from home. Furthermore, the top 10 skills gives them an ideal as to what training they will need. In addition to requirements this page also shows expected wages as well as likely job schedules.
 
